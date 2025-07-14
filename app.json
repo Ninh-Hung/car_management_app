@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "car_management-app",
+    "scheme": "myapp" ,
     "slug": "car_management-app",
     "version": "1.0.0",
     "orientation": "portrait",
